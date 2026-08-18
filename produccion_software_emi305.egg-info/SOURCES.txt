@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+produccion_software_emi305.egg-info/PKG-INFO
+produccion_software_emi305.egg-info/SOURCES.txt
+produccion_software_emi305.egg-info/dependency_links.txt
+produccion_software_emi305.egg-info/requires.txt
+produccion_software_emi305.egg-info/top_level.txt
